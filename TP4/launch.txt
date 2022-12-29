@@ -1,0 +1,2 @@
+kc.bat build --db postgres
+kc.bat start-dev --db=postgres --db-url=jdbc:postgres://localhost:5432/keycloak --db-username=postgres --db-password=root
